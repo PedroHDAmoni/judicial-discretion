@@ -3,3 +3,5 @@ Repository for the paper Judicial discretion, credit, and the real economy (Amon
 
 Scrap judicial decisions from esaj.tjsp.jus.br
 
+Extract unstructured information
+
